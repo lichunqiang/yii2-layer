@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "light\\yii2\\assets\\": ""
+            "light\\assets\\": ""
         }
     }
 }
