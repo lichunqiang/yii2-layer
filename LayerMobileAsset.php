@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
  *
  * LayerMobielAsset::register($this);
  * ~~~
- * @version 0.1.1
+ * @version 0.1.2
  * @author light-li<light-li@hotmail.com>
  */
 class LayerMobileAsset extends AssetBundle
