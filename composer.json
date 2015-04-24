@@ -1,0 +1,22 @@
+{
+    "name": "light/yii2-layer",
+    "description": "yii2 asset plugin for layer",
+    "keywors": ["yii2", "Yii2", "layer", "bower"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lichunqiang",
+            "email": "light-li@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "light\\yii2\\assets\\": ""
+        }
+    }
+}
