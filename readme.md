@@ -15,7 +15,7 @@ $ composer install
 or
 
 ```sh
-$ composer update
+$ composer require light/yii2-layer=*
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ $ composer update
 in view:
 
 ```
-use light\yii\assets\LayerAsset;
+use light\assets\LayerAsset;
 
 LayerAsset::register($this);
 
