@@ -29,6 +29,13 @@ LayerAsset::register($this);
 
 ```
 
+and for mobile, you can do like this:
+```
+use light\asset\LayerMobielAsset;
+
+LaryerMobileAsset::regiter($this);
+```
+
 ## Test
 
 > TBD
